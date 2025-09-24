@@ -4,7 +4,7 @@
 ## О себе
 
 Меня зовут Тепликова Валентина, тимлид с опытом работы более 8 лет. 
-С апреля 2024 я изучаю аналитику данных, руководила командой из 10+ человек и курировала разработку нескольких проектов в сфере радиолокации.
+С апреля 2024 я изучаю аналитику данных, до этого руководила командой из 10+ человек и курировала разработку нескольких проектов в инженерной сфере.
 
 | Название проекта | Описание проекта | Стек |
 |-----------------:|------------------|------|
@@ -14,9 +14,10 @@
 
 
 
-![Сертификат](https://github.com/valentina-tvi/valentina-tvi/blob/main/Sert_data_analist.pdf)
+<img src="https://github.com/valentina-tvi/valentina-tvi/blob/main/Sertif_data_analist.jpg" 
+     alt="Сертификат Аналитик данных"
+     width="700"
+     height="500"
+     loading="lazy"
+     decoding="async">
 
-
-
-<img src="https://disk.yandex.ru/i/WOy9QYjTkC0PKQ" alt="Описание изображения">
-https://lab.karpov.courses/certificate/2952111a-1f2f-4edf-b72f-03df800cacdf/
