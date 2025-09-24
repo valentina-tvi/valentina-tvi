@@ -14,6 +14,12 @@
 <!-- 💻 [LinkedIn](https://linkedin.com/in/yourprofile) -->
 📧 Email: teplikova.valentina@gmail.com
 
+## 🛠️ Навыки и инструменты 
+
+Навыки: Python, SQL, Git, PostreSQL, Redash, Airflow, Jupyter Notebook  
+Инструменты: Pandas, Numpy, Scipy, Matplotlib, Seaborn
+
+
 ## 📖 Наиболее интересные проекты
 
 | Название проекта | Описание проекта | Стек |
