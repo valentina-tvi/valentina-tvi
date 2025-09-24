@@ -14,7 +14,7 @@
 
 
 
-![Альтернативный текст](https://disk.yandex.ru/i/WOy9QYjTkC0PKQ)
+![Сертификат](https://github.com/valentina-tvi/valentina-tvi/blob/main/Sert_data_analist.pdf)
 
 
 
