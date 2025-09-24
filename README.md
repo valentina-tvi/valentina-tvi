@@ -14,6 +14,8 @@
 
 
 
+![Альтернативный текст](https://disk.yandex.ru/i/WOy9QYjTkC0PKQ)
+
 
 
 <img src="https://disk.yandex.ru/i/WOy9QYjTkC0PKQ" alt="Описание изображения">
